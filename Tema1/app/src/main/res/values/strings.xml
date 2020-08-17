@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tema1</string>
+    <string name="start_descendant_1">Start Descendant 1</string>
+    <string name="start_descendant_2">Start Descendant 2</string>
+    <string name="external_activities">External Activities</string>
+    <string name="start_google_maps">Start Google Maps</string>
+    <string name="toggle_open_descritpion">Open</string>
+    <string name="toggle_close_description">Close</string>
+    <string name="go_to_sibling_activity">Go To Sibling Activity</string>
+    <string name="i_do_nothing">I do nothing</string>
+    <string name="switch_image_view">Switch image view</string>
+    <string name="toast">Toast</string>
+    <string name="information">Information</string>
+    <string name="edittext_description">Name</string>
+    <string name="save">Save</string>
+    <string name="first_rb">First RB</string>
+    <string name="second_rb">Second RB</string>
+    <string name="third_rb">Third RB</string>
+    <string name="first_cb">First CB</string>
+    <string name="second_cb">Second CB</string>
+    <string name="togglebutton">ToggleButton</string>
+</resources>

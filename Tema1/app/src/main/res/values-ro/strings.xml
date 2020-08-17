@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tema1</string>
+    <string name="start_descendant_1">Porneste Descendent 1</string>
+    <string name="start_descendant_2">Porneste Descendent 2</string>
+    <string name="external_activities">Activitati Externe</string>
+    <string name="start_google_maps">Porneste Google Maps</string>
+    <string name="toggle_open_descritpion">Porneste</string>
+    <string name="toggle_close_description">Inchide</string>
+    <string name="go_to_sibling_activity">Mergi la Activitatea Sora</string>
+    <string name="i_do_nothing">Nu fac nimic</string>
+    <string name="switch_image_view">View de tip Imagine cu rol de Switch</string>
+    <string name="toast">Toast</string>
+    <string name="information">Informatii</string>
+    <string name="edittext_description">Nume</string>
+    <string name="save">Salveaza</string>
+    <string name="first_rb">Primul RB</string>
+    <string name="second_rb">Al doilea RB</string>
+    <string name="third_rb">Al treilea RB</string>
+    <string name="first_cb">Primul CB</string>
+    <string name="second_cb">Al doilea CB</string>
+</resources>

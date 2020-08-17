@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/information"
+        android:id="@+id/action_information"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item android:title="@string/toast"
+        android:id="@+id/action_toast"
+        app:showAsAction="never"
+        android:orderInCategory="200"/>
+</menu>
